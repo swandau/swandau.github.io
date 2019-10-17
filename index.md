@@ -1,8 +1,6 @@
-# Die Bedeutung der Digitalisierung für den Personalbereich
+# Die Bedeutung der Digitalisierung für den HR bereich
 
 ![Katze](01.jpg)
-
-[Katzen](Blog/Katzen.md)
 
 Incididunt aute irure qui consequat cupidatat id esse ullamco non duis. Dolore nulla et nostrud veniam ex ex exercitation. Fugiat sit magna labore magna dolor esse dolore do mollit ipsum sit fugiat veniam. In laborum dolore eiusmod incididunt incididunt. Et minim velit aliquip id consectetur nisi fugiat sunt proident.
 

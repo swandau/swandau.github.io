@@ -1,5 +1,7 @@
 # Die Bedeutung der Digitalisierung für den Personalbereich
 
+![Katze](01.jpg)
+
 Incididunt aute irure qui consequat cupidatat id esse ullamco non duis. Dolore nulla et nostrud veniam ex ex exercitation. Fugiat sit magna labore magna dolor esse dolore do mollit ipsum sit fugiat veniam. In laborum dolore eiusmod incididunt incididunt. Et minim velit aliquip id consectetur nisi fugiat sunt proident.
 
 Occaecat irure ex commodo ea elit fugiat. Tempor labore reprehenderit consequat laboris et dolor ullamco. In excepteur magna anim consequat laborum elit est proident. Do dolore magna commodo commodo ut qui veniam nostrud elit. Quis occaecat tempor mollit dolore nisi commodo Lorem consequat fugiat veniam do est est.

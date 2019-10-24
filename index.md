@@ -4,16 +4,15 @@
 
 [Katzen](Blog/Katzen.md)
 
-Es folgt eine mega spannende Geschichte über Katzis:
-Incididunt aute irure qui consequat cupidatat id esse ullamco non duis. Dolore nulla et nostrud veniam ex ex exercitation. Fugiat sit magna labore magna dolor esse dolore do mollit ipsum sit fugiat veniam. In laborum dolore eiusmod incididunt incididunt. Et minim velit aliquip id consectetur nisi fugiat sunt proident.
+Die Merkmale der Hauskatze schwanken je nach Verbreitungsgebiet. Bei den gezüchteten Formen sind sie von den Rassestandards abhängig, bei den kulturfolgenden Hauskatzen unterliegen sie dem jeweiligen Selektionsdruck, der von den natürlichen Umweltbedingungen abhängt.
 
-Occaecat irure ex commodo ea elit fugiat. Tempor labore reprehenderit consequat laboris et dolor ullamco. In excepteur magna anim consequat laborum elit est proident. Do dolore magna commodo commodo ut qui veniam nostrud elit. Quis occaecat tempor mollit dolore nisi commodo Lorem consequat fugiat veniam do est est.
+Hauskatzen sind im Durchschnitt etwa 50 Zentimeter lang und 4 Kilogramm schwer mit einer großen Variationsbreite von ca. 2,5 kg bis ca. 8 kg. Männliche Tiere sind etwas größer als weibliche. Die Länge des Schwanzes beträgt etwa 25 bis 30 cm. Eine Ausnahme ist die schwanzlose Manx-Katze von der Insel Man. Die Schulterhöhe beträgt 30 bis 35 cm. In Verbreitungsgebieten mit kälterem Klima sind die Katzen allgemein schwerer und größer, in wärmeren Gebieten sind sie leichter. Die National Geographic Society (1981) gibt die durchschnittliche Kopf-Rumpf-Länge mehrerer beliebter Katzenrassen mit 46 cm und die Schwanzlänge mit 30 cm an. Der bisher schwerste dokumentierte Hauskater war der stark adipöse „Himmy“ aus Australien mit 21,2 kg.
 
-Ullamco tempor pariatur consectetur est. Sunt in enim reprehenderit sint occaecat. Cupidatat exercitation eu aliquip laboris commodo laboris cupidatat. Aute aliqua commodo irure ullamco esse laborum aliquip deserunt dolor mollit nostrud nulla tempor quis. In magna excepteur minim ipsum fugiat aute amet aute voluptate exercitation. Nisi dolor minim dolor irure non excepteur duis enim consequat nostrud minim excepteur. Nisi commodo tempor ad elit ex aliquip sit magna id.
+Verschiedene Hauskatzen-Züchtungen
+Die Hauskatze im Wildtyp besitzt eine M-förmige Zeichnung auf der Stirn, von den Augen zur Seite gehende „Kajal“-Striche, einen dunklen Aalstrich und dunkle Querstreifen (oder auch Tupfen) an den Körperseiten. Beine und Schwanz sind ebenfalls dunkel gebändert. Ihre Farbe variiert von grau-schwarz bis zu warmen Brauntönen. Die für die Hauskatze typischen Fellzeichnungen werden als Tabby bezeichnet. Neben dem oben beschriebenen Wildtyp, mackerel genannt, haben sich weitere Zeichnungen und eine Vielzahl an Fellfarben herausgebildet. In Europa, Nordamerika und Australien überwiegt die gestromte Zeichnung, die oft mit einer teilweisen Weißfärbung verbunden ist.
 
-Amet esse irure nostrud cupidatat incididunt. Ad proident reprehenderit ut adipisicing mollit. Aliqua ut culpa sit pariatur exercitation sit commodo ullamco tempor magna consectetur aliqua sint. Aliquip ut mollit sunt voluptate. Proident sint occaecat non elit commodo duis. Cillum ea culpa duis aute tempor magna tempor nulla ea et.
+Die Ohren der Hauskatze stehen aufrecht, sind breit am Ansatz, dreieckförmig und an den Spitzen leicht gerundet. Sie können unabhängig voneinander in verschiedene Richtungen gedreht sowie gänzlich flach an den Hinterkopf angelegt werden. Die Augen sind nach vorne gerichtet und ermöglichen so räumliches Sehen.
 
-Consequat commodo pariatur amet mollit consequat eu velit aute sit labore aliquip. Enim aute ullamco duis ea commodo anim deserunt velit mollit ad aliquip cillum incididunt. Quis reprehenderit do exercitation sit. Dolore aliquip incididunt sint id irure commodo eiusmod consequat magna incididunt sunt labore.
 
 ## Referenzen
 [Mein bester Professor](https://ulrich-anders.eu)

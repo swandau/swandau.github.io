@@ -1,12 +1,12 @@
-# Einleitung
+## Einleitung
 
 Digitalisierung steht laut dem Bundesministerium für Wirtschaft und Energie für die umfassende Vernetzung in allen Bereichen der Wirtschaft und Gesellschaft sowie für die Fähigkeit, relevante Informationen zu sammeln, zu analysieren und in Handlungen umzusetzen (BMWI, 2015).
 
 Demnach ist jedes Unternehmen davon betroffen und dem Personalmanagement wird dabei eine erfolgskritische Rolle zugeschrieben. In einer Studie der Deutschen Gesellschaft für Personal (DGFP) ist die Digitalisierung schon länger einer der maßgeblichen Trends. Ein Drittel der in der Studie befragten Unternehmen rechnen mit einem starken Einfluss der Digitalisierung auf das Personalmanagement. Dabei geht es einerseits um die effizientere Gestaltung von Personalprozessen und andererseits um eine verstärkte strategische Integration der Personalfunktion ins Unternehmen (Armutat, 2015). HR (Human Resources) steht nun also vor einer wichtigen Entscheidung: Transformieren sie sich selbst und blieben damit Treiber der Transformation oder bleiben sie beim Alten und sterben langsam aus (BPM, 2016).
 
-# Technologien innerhalb der Personalfunktionen
+## Technologien innerhalb der Personalfunktionen
 
-## Personalsoftware
+### Personalsoftware
 
 Die Digitalisierung im Personalbereich ist bereits im vollen Gang. Früher wurden sämtliche Mitarbeiterinformationen und Berichte auf Papier erstellt. Die komplette Lohn- und Gehaltsabrechnung wurde per Hand erledigt und jegliches Trainingsvorhaben musste zwangsläufig immer persönlich und vor Ort durchgeführt werden – mit komplexen Terminfindungen und Reiseaufwänden. All dies wird heutzutage fast nur noch am Computer oder über mobile Endgeräte mithilfe von Softwarelösungen und weitergreifenden Informationssystemen erledigt.
 
@@ -18,7 +18,7 @@ Laut einer Studie der Leuphana-Universität Lüneburg (Deller et al., 2017) wird
 
 Personalsoftware kann nicht nur bei den klassischen administrativen Aufgaben unterstützen, sondern auch ein strategischer Vorteil sein. Indem die aktuelle Softwarelösung effizienter gemacht wird, können Kosten und Zeit gespart werden. Wenn die Software relevante Daten für die Unternehmensführung generiert, kann sie aus dem Personalbereich einen strategischen Partner machen (Bell, 2015).
 
-## Analytics
+### Analytics
 
 HR Analytics wird wie folgt definiert: „HR Analytics wird genutzt, um beschreibende, visuelle und statistische Analysen von Daten, die auf HR Prozessen, Humankapital, Unternehmensleistung und externe ökonomische Benchmarks basieren, um die Auswirkungen auf das Unternehmen zu erfassen und datenbasierte Entscheidungen zu treffen.“ (Marler & Bodreau, 2017).
 
@@ -29,9 +29,9 @@ Mögliche Anwendungsgebiete für HR Analytics sind: Passende Kandidaten mithilfe
 
 Um HR Analytics effektiv im Unternehmen aufzubauen, muss es Mitarbeiter/innen geben, die die Kompetenz haben Daten korrekt zu sammeln, statistisch zu analysieren und sinnvoll zu kommunizieren (Marler & Bodreau, 2017). Auch die Qualität der vorhandenen Daten kann insbesondere durch sogenanntes Silodenken leiden (Angrave, Charlwood, Kirkpatrick, Lawrence & Stuart, 2016).
 
-# Einfluss der Digitalisierung auf die Rolle von HR
+## Einfluss der Digitalisierung auf die Rolle von HR
 
-## Agile Organisationen
+### Agile Organisationen
 
 Die Digitalisierung beeinflusst nicht nur Technologien innerhalb des Personalbereiches, sondern auch die Arbeitsweise im Unternehmen. Es wird vielmehr nötig sein, sein Unternehmen flexibler und anpassungsfähiger zu gestalten, da sich das Umfeld stetig verändert. Hierfür werden selbst-organisierte Teams, Hierarchiefreiheit, Innovationsräume und Daten- und Entscheidungstransparenz benötigt (Lenz, 2017). Dabei verschwimmen die Grenzen zwischen Arbeits- und Privatleben und beide Bereiche dringen in den jeweils anderen ein (Ruf, 2019).
 
@@ -39,7 +39,7 @@ Aktuell sind die meisten Unternehmen in einer Transformationsphase, um zumindest
 
 Laut dem Bundesverband der Personalmanager (BPM) bringen die neuen Arbeitsformen den Mitarbeiter/innen mehr Möglichkeiten zur Selbstbestimmung und HR einen größeren Gestaltungsspielraum (BPM, 2016). Allerdings verlangen diese Veränderungen in der Arbeitswelt von Mitarbeiter/innen eine erhöhte Flexibilität, da sich ihr Arbeitsumfeld stetig ändert. Für diesen Kulturwandel werden insbesondere Führungskräfte benötigt, die eine Vorbildfunktion sind und damit auch die restlichen Mitarbeiter/innen mitnehmen (Ruf, 2019).
 
-## Kompetenzentwicklung
+### Kompetenzentwicklung
 
 Laut der Studie „Digitale Agenda 2020“ nennen 37% der Unternehmen die technischen Aus- und Weiterbildungslücken ihrer Mitarbeiter als größten Stolperstein, damit sie ihre digitale Agenda starten können. Unter anderem deswegen wird es immer relevanter sein Leben lang zu lernen. Dabei ist die interne Weiterbildung in der Zukunft wichtiger als die Neueinstellung von hochqualifizierten Arbeitskräften. Dies geschieht weniger in klassischen Schulungen und immer mehr direkt am Arbeitsplatz – durch Kollegen/-innen oder durch kleinere Lerneinheiten (z.B. durch Online-Learning) (Haufe Online Redaktion, 2017). Das sogenannte arbeitsintegrierte Lernen verkürzt die Transferzeit zwischen Lernen und Anwenden und ist damit besonders effektiv (Ruf, 2019).
 
@@ -51,13 +51,13 @@ In der folgenden Abbildung wird ersichtlich inwiefern HR Abteilungen über die n
 
 Auch Online-Learning hat sich mit der Zeit verändert. Mittlerweile können durch Augmented Reality lebensechte Situationen nachgestellt werden und durch Serious Gaming kann der Berufsalltag gamifiziert werden. Außerdem können Mitarbeiter/innen all dies nicht nur vom Desktop-PC des machen, sondern von überall, von jedem Gerät und zu jeder Uhrzeit. Hierbei ist es Aufgabe der Personalabteilung für jeden fachlichen Inhalt das entsprechende Format zu finden. Dabei sollte auf die unterschiedlichen Lernpräferenzen der Mitarbeiter/innen geachtet werden (BPM, 2016). Auch steigt die Relevanz von eigenen Ausbildungsprogrammen, um die zukünftigen Mitarbeiter/innen entsprechend auf die für das Unternehmen relevanten Bereiche vorzubereiten (Ruf, 2019).
 
-# Zusammenfassung
+## Zusammenfassung
 
 Das Feld des Personalmanagements bekommt mit der Digitalisierung also eine Handvoll an Aufgaben mit auf den Weg. Nun muss es sich nur noch als gestalterische, strategische Funktion aktiv im Unternehmen einbringen. Ansonsten bleibt es eine unternehmens-politisch marginale Rolle, die in erster Linie durch administrative Prozesse bekannt ist (Ruf, 2019).
 
 Insbesondere in Deutschland ist das Arbeitsrecht aber noch nicht unbedingt mit der Digitalisierung vereinbar. Durch die Auflösung klassischer Betriebsstrukturen ergeben sich neue Herausforderungen, da z.B. keine klassischen Weisungsrechte mehr vorhanden sind. Auch die Möglichkeiten zu jeder Zeit und an jedem Ort zu arbeiten sind aktuell laut den Gesetzen noch nicht vorgesehen. Zudem sieht das deutsche und europäische Gesetz einen sehr hohen Schutz der Mitarbeiterdaten vor, welches ein sehr wichtiges Thema ist, mit dem sich Unternehmen beschäftigen müssen (BPM, 2016). Hier müssen sowohl Politik als auch Unternehmen zusammenarbeiten, um optimale Lösungen zu finden, die sowohl für den Arbeitnehmer als auch das Unternehmen zufriedenstellend sind.
 
-## Quellen
+### Quellen
 
 Angrave, David, Charlwood, Andy, Kirkpatrick, Ian, Lawrence, Mark & Stuart, Mark (2016): HR and analytics: why HR is set to fail the big data challenge. Human Resource Management Journal, 26(1), S. 1-11.
 

@@ -14,7 +14,7 @@ Bereits in den 1950ern wurden erste Informationssysteme entwickelt. Insbesondere
 
 Laut einer Studie der Leuphana-Universität Lüneburg (Deller et al., 2017) wird in den folgenden Bereichen Personalsoftware eingesetzt:
 
-[Katzen](Blog/Katzen.md)
+[bild1](bild1.png)
 
 Personalsoftware kann nicht nur bei den klassischen administrativen Aufgaben unterstützen, sondern auch ein strategischer Vorteil sein. Indem die aktuelle Softwarelösung effizienter gemacht wird, können Kosten und Zeit gespart werden. Wenn die Software relevante Daten für die Unternehmensführung generiert, kann sie aus dem Personalbereich einen strategischen Partner machen (Bell, 2015).
 
@@ -58,8 +58,6 @@ Das Feld des Personalmanagements bekommt mit der Digitalisierung also eine Handv
 Insbesondere in Deutschland ist das Arbeitsrecht aber noch nicht unbedingt mit der Digitalisierung vereinbar. Durch die Auflösung klassischer Betriebsstrukturen ergeben sich neue Herausforderungen, da z.B. keine klassischen Weisungsrechte mehr vorhanden sind. Auch die Möglichkeiten zu jeder Zeit und an jedem Ort zu arbeiten sind aktuell laut den Gesetzen noch nicht vorgesehen. Zudem sieht das deutsche und europäische Gesetz einen sehr hohen Schutz der Mitarbeiterdaten vor, welches ein sehr wichtiges Thema ist, mit dem sich Unternehmen beschäftigen müssen (BPM, 2016). Hier müssen sowohl Politik als auch Unternehmen zusammenarbeiten, um optimale Lösungen zu finden, die sowohl für den Arbeitnehmer als auch das Unternehmen zufriedenstellend sind.
 
 ## Referenzen
-
-[Mein bester Professor](https://ulrich-anders.eu)
 
 Angrave, David, Charlwood, Andy, Kirkpatrick, Ian, Lawrence, Mark & Stuart, Mark (2016): HR and analytics: why HR is set to fail the big data challenge. Human Resource Management Journal, 26(1), S. 1-11.
 

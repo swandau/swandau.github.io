@@ -14,7 +14,7 @@ Bereits in den 1950ern wurden erste Informationssysteme entwickelt. Insbesondere
 
 Laut einer Studie der Leuphana-Universität Lüneburg (Deller et al., 2017) wird in den folgenden Bereichen Personalsoftware eingesetzt:
 
-[bild1](bild1.png)
+![bild1](bild1.png)
 
 Personalsoftware kann nicht nur bei den klassischen administrativen Aufgaben unterstützen, sondern auch ein strategischer Vorteil sein. Indem die aktuelle Softwarelösung effizienter gemacht wird, können Kosten und Zeit gespart werden. Wenn die Software relevante Daten für die Unternehmensführung generiert, kann sie aus dem Personalbereich einen strategischen Partner machen (Bell, 2015).
 
@@ -47,7 +47,7 @@ Der Fokus sollte dabei nicht nur auf den technischen Kompetenzen liegen, sondern
 
 In der folgenden Abbildung wird ersichtlich inwiefern HR Abteilungen über die notwendigen Kompetenzen verfügen, die Digitalisierung bis 2023 zu bewältigen.
 
-BILD 2
+![bild2](bild2.png)
 
 Auch Online-Learning hat sich mit der Zeit verändert. Mittlerweile können durch Augmented Reality lebensechte Situationen nachgestellt werden und durch Serious Gaming kann der Berufsalltag gamifiziert werden. Außerdem können Mitarbeiter/innen all dies nicht nur vom Desktop-PC des machen, sondern von überall, von jedem Gerät und zu jeder Uhrzeit. Hierbei ist es Aufgabe der Personalabteilung für jeden fachlichen Inhalt das entsprechende Format zu finden. Dabei sollte auf die unterschiedlichen Lernpräferenzen der Mitarbeiter/innen geachtet werden (BPM, 2016). Auch steigt die Relevanz von eigenen Ausbildungsprogrammen, um die zukünftigen Mitarbeiter/innen entsprechend auf die für das Unternehmen relevanten Bereiche vorzubereiten (Ruf, 2019).
 

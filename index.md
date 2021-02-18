@@ -12,4 +12,4 @@ Vielen Dank für Ihre Teilnahme
 
 Swanhild Dausien
 
-[Hier ist ein Link](https://animalcrossingwiki.de/nachbarn/sophie)
+[Hier ist ein Link](https://animalcrossingwiki.de/nachbarn/sophie or https://animalcrossingwiki.de/nachbarn/kurt)

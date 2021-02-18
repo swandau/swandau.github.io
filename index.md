@@ -1,6 +1,6 @@
 ## Vielen Dank, dass Sie bereit sind an meinem Experiment teilzunehmen!
 
-Im Rahmen meiner Masterthesis versuche ich die Akzeptanz von Chatbots im Bereich Achtsamkeit zu messen. Hierzu haben Sie die Möglichkeit über den untenstehenden Link eine Unterhaltung mit einem Chatbot zu führen, welcher Ihnen relevante Informationen zum Thema Achtsamkeit näher bringt.
+Im Rahmen meiner Masterthesis an der CBS International Business School versuche ich die Akzeptanz von Chatbots im Bereich Achtsamkeit zu messen. Hierzu haben Sie die Möglichkeit über den untenstehenden Link eine Unterhaltung mit einem Chatbot zu führen, welcher Ihnen relevante Informationen zum Thema Achtsamkeit näher bringt.
 
 Das Experiment ist in drei Teile geteilt. Zunächst gibt es ein paar kurze Fragen zum Einstieg, dann folgt die Interaktion mit dem Chatbot und zum Schluss folgen noch weiter Fragen zur Erfassung der Akzeptanz.
 
